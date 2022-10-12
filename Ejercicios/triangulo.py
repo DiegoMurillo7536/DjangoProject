@@ -1,6 +1,3 @@
-from ast import For, If
-from traceback import print_list
-
 
 print("Bienvenido, por favor elige que deseas realizar:")
 print("Escribre la abreviación de lo que quieres descubrir")
