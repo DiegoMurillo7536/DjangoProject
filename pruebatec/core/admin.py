@@ -25,4 +25,5 @@ class Player(admin.ModelAdmin):
 
     def foto(self,obj):
         return format_html('<img src={} width=100 height=100 />',obj.photo.url)
+    
 
